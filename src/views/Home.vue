@@ -1,5 +1,9 @@
-<script setup></script>
+<script setup>
+import Hero from '@/components/home/Hero.vue'
+</script>
 
-<template></template>
+<template>
+  <Hero />
+</template>
 
 <style scoped></style>
